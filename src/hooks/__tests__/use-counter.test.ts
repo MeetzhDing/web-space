@@ -1,4 +1,5 @@
 import { renderHook } from '@testing-library/react-hooks';
+
 import useCounter from '../use-counter';
 
 test('should use counter', () => {
